@@ -1,4 +1,4 @@
-# citizen-science
+# Citizen Science
 Discoveries, co-discoveries, and possible discoveries related to my activity in the field of [citizen science](https://en.wikipedia.org/wiki/Citizen_science).
 
 I like to keep things simple, and I believe this repository will be useful for me.
