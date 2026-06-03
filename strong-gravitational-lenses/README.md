@@ -7,6 +7,8 @@ Project: https://www.zooniverse.org/projects/aprajita/space-warps-esa-euclid
 
 Date: 2025-09-14
 
+- Discovery counter: 90
+
 # Grade A
 https://www.zooniverse.org/projects/aprajita/space-warps-esa-euclid/talk/subjects/104613177
 https://www.zooniverse.org/projects/aprajita/space-warps-esa-euclid/talk/subjects/104613388
